@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paulo Jordão
   - 👀 I’m interested in  Tecnologia, liguagem de programção
-- 🌱 I’m currently learning  Programação voltada para objeto,  Engeharia de software
+- 🌱 I’m currently learning  Programação voltada para objeto,  Engenharia de software
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
